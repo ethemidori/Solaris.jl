@@ -9,6 +9,4 @@ docs/build
 *.pptx
 .project
 .tags
-Manifest.toml
-test/Manifest.toml
-docs/Manifest.toml
+
