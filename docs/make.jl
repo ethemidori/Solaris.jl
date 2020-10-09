@@ -1,6 +1,6 @@
 using Pkg
 Pkg.add("Documenter")
-push!(LOAD_PATH,"../src/")
+#push!(LOAD_PATH,"../src/")
 using Documenter, Solaris
 
 makedocs(
