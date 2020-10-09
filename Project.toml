@@ -1,5 +1,5 @@
 name = "Solaris"
-uuid = "8d666b04-775d-5f6e-b778-5ac7c70f65a3"
+uuid = "8d666b04-775d-5f6e-b778-5ac7c70f30a3"
 authors = ["Tianbai Xiao <tianbaixiao@gmail.com>"]
 version = "0.1.0"
 
