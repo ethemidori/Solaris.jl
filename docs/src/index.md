@@ -98,26 +98,3 @@ Pkg.dir("PolyChaos")
 to figure out where the package was cloned to.
 Go to that location and figure out what branch you are on via `git branch`.
 
-## Citing
-If you found the software useful and applied it to your own research, we'd appreciate a citation.
-Add the following to your BibTeX file
-
-```tex
-@ARTICLE{2020arXiv200403970M,
-       author = {{M{\"u}hlpfordt}, Tillmann and {Zahn}, Frederik and {Hagenmeyer}, Veit and
-         {Faulwasser}, Timm},
-        title = "{PolyChaos.jl -- A Julia Package for Polynomial Chaos in Systems and Control}",
-      journal = {arXiv e-prints},
-     keywords = {Electrical Engineering and Systems Science - Systems and Control, Mathematics - Numerical Analysis, Mathematics - Optimization and Control},
-         year = 2020,
-        month = apr,
-          eid = {arXiv:2004.03970},
-        pages = {arXiv:2004.03970},
-archivePrefix = {arXiv},
-       eprint = {2004.03970},
-}
-```
-
-Of course you are more than welcome to partake in GitHub's gamification: starring and forking is much appreciated.
-
-Enjoy.
