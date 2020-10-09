@@ -2,7 +2,7 @@ codecov: true
 coveralls: true
 language: julia
 julia:
-  - 1.5
+  - 1.4
   - nightly
 
 after_success:
