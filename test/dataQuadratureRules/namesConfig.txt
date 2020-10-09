@@ -1,4 +1,0 @@
-hermite 
-log 
-jac 
-laguerre 
