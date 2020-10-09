@@ -9,5 +9,4 @@ makedocs(
 
 deploydocs(
     repo = "github.com/ethemidori/Solaris.jl.git",
-    target = "build",
 )
