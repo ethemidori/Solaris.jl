@@ -7,7 +7,7 @@ makedocs(
     sitename = "Solaris.jl",
 )
 
-#deploydocs(
-#    repo = "github.com/ethemidori/Solaris.jl.git",
-#    target = "build",
-#)
+deploydocs(
+    repo = "github.com/ethemidori/Solaris.jl.git",
+    target = "build",
+)
